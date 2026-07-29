@@ -8,10 +8,11 @@ The objective of this project is to analyze employee attrition, workforce demogr
 
 ---
 
- 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-![IBM HR Analytics Dashboard](Images/ibm-hr-analytics-dashboard.png)
-
+<p align="center">
+  <img src="./ibm-hr-analytics-dashboard.png" alt="IBM HR Analytics Dashboard" width="100%">
+</p>
 ---
 
 ## 🎯 Project Objectives
